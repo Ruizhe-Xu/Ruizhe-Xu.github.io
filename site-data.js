@@ -4,7 +4,7 @@ window.ACADEMIC_SITE = {
     englishName: 'Ruizhe Xu',
     chineseName: '(徐睿哲)',
     affiliation: 'The University of Hong Kong', // Optional position or institution
-    email: 'ruizhexu.math@gmail.com',
+    email: 'ruizhexu.math[at]gmail.com',
     biography: [
       'I am currently a Postdoctoral Fellow in the Department of Mathematics at the University of Hong Kong, working with Professor [Zhigang Bao](https://sites.google.com/view/zhigangbaohomepage/).',,
       'My research interests lie in probability theory and mathematical physics, particularly random matrices and random graphs, stochastic homogenization, and random walks in random environments.',
